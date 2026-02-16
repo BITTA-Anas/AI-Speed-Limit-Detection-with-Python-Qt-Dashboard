@@ -111,3 +111,4 @@ Dockerfile
 *.qmltypes
 .qml.bak
 *.qmlc
+build/
