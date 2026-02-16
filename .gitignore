@@ -112,3 +112,4 @@ Dockerfile
 .qml.bak
 *.qmlc
 build/
+build/
