@@ -29,14 +29,12 @@ qt_add_qml_module(JaugeDynamique
     VERSION 1.0
     QML_FILES
         qml/Main.qml
-        qml/Gauge.qml
 )
 
 qt_add_resources(JaugeDynamique "resources"
     PREFIX "/"
     FILES
         qml/Main.qml
-        qml/Gauge.qml
         assets/signs/20.svg
         assets/signs/30.svg
         assets/signs/40.svg

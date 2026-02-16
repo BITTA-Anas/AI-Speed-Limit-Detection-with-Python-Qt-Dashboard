@@ -1,4 +1,4 @@
-set(qml_import_scanner_imports_count 67)
+set(qml_import_scanner_imports_count 66)
 set(qml_import_scanner_import_0 "CLASSNAME;QtQuick2Plugin;LINKTARGET;Qt6::qtquick2plugin;NAME;QtQuick;PATH;C:/Qt/6.9.1/mingw_64/qml/QtQuick;PLUGIN;qtquick2plugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/;RELATIVEPATH;QtQuick;TYPE;module;")
 set(qml_import_scanner_import_1 "CLASSNAME;QtQmlPlugin;LINKTARGET;Qt6::qmlplugin;NAME;QtQml;PATH;C:/Qt/6.9.1/mingw_64/qml/QtQml;PLUGIN;qmlplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/;RELATIVEPATH;QtQml;TYPE;module;")
 set(qml_import_scanner_import_2 "NAME;QML;PATH;C:/Qt/6.9.1/mingw_64/qml/QML;PREFER;:/qt-project.org/imports/QML/;RELATIVEPATH;QML;TYPE;module;")
@@ -65,5 +65,4 @@ set(qml_import_scanner_import_62 "CLASSNAME;QtQmlCorePlugin;LINKTARGET;Qt6::qtqm
 set(qml_import_scanner_import_63 "CLASSNAME;QtQuick3DHelpersPlugin;COMPONENTS;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers/AxisHelper.qml;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers/DebugView.qml;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers/ExtendedSceneEnvironment.qml;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers/LodManager.qml;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers/OrbitCameraController.qml;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers/WasdController.qml;LINKTARGET;Qt6::qtquick3dhelpersplugin;NAME;QtQuick3D.Helpers;PATH;C:/Qt/6.9.1/mingw_64/qml/QtQuick3D/Helpers;PLUGIN;qtquick3dhelpersplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick3D/Helpers/;RELATIVEPATH;QtQuick3D/Helpers;TYPE;module;")
 set(qml_import_scanner_import_64 "CLASSNAME;QtLabsPlatformPlugin;LINKTARGET;Qt6::LabsPlatformplugin;NAME;Qt.labs.platform;PATH;C:/Qt/6.9.1/mingw_64/qml/Qt/labs/platform;PLUGIN;labsplatformplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/Qt/labs/platform/;RELATIVEPATH;Qt/labs/platform;TYPE;module;")
 set(qml_import_scanner_import_65 "NAME;testlogger.js;PATH;C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Lib/site-packages/PyQt6/Qt6/qml/QtTest/testlogger.js;TYPE;javascript;")
-set(qml_import_scanner_import_66 "NAME;QtQuick.Canvas;TYPE;module;")
 

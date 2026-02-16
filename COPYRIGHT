@@ -1,0 +1,211 @@
+COPYRIGHT NOTICE
+================
+
+AI Speed Limit Detection with Python Qt Dashboard
+Project Repository: https://github.com/BITTA-Anas/AI-Speed-Limit-Detection-with-Python-Qt-Dashboard
+
+---
+
+COPYRIGHT HOLDER
+================
+
+Copyright © 2026 BITTA Anas
+All Rights Reserved
+
+LinkedIn: https://www.linkedin.com/in/bitta-anas/
+GitHub: https://github.com/BITTA-Anas
+
+---
+
+INTELLECTUAL PROPERTY RIGHTS
+============================
+
+This software and all its associated materials, including but not limited to:
+- Source code
+- Documentation
+- Configuration files
+- Training models
+- User interface designs
+- Architecture diagrams
+- Algorithms and implementations
+
+are the exclusive intellectual property of BITTA Anas and are protected by
+international copyright laws and treaties.
+
+---
+
+LICENSE TERMS
+=============
+
+This software is distributed under the MIT License. See the LICENSE file
+for complete terms and conditions.
+
+In summary, the MIT License grants users the right to:
+✓ Use the software for any purpose
+✓ Copy the software
+✓ Modify the software
+✓ Distribute the software
+✓ Include the software in proprietary applications
+
+Subject to the condition that:
+→ The above copyright notice and this permission notice are included in all
+  copies or substantial portions of the software
+→ The software is provided "as is" without warranty
+
+---
+
+ATTRIBUTION REQUIREMENTS
+========================
+
+When using this software in any form (modified or unmodified), you must:
+
+1. Include the original copyright notice in any copies or derivative works
+2. Include a link to the original repository:
+   https://github.com/BITTA-Anas/AI-Speed-Limit-Detection-with-Python-Qt-Dashboard
+3. Maintain the LICENSE and COPYRIGHT files in derivative projects
+
+Example attribution:
+"Based on AI Speed Limit Detection with Python Qt Dashboard by BITTA Anas
+(https://github.com/BITTA-Anas/AI-Speed-Limit-Detection-with-Python-Qt-Dashboard)"
+
+---
+
+THIRD-PARTY COMPONENTS & ACKNOWLEDGMENTS
+=========================================
+
+This project incorporates the following third-party libraries and technologies:
+
+PyTorch
+-------
+- License: BSD
+- Website: https://pytorch.org/
+- Copyright © Meta Platforms, Inc. and affiliates
+
+YOLOv8 (Ultralytics)
+--------------------
+- License: AGPL-3.0 (commercial licenses available)
+- Website: https://www.ultralytics.com/
+- Copyright © Ultralytics LLC. All rights reserved.
+- Project: https://github.com/ultralytics/ultralytics
+
+OpenCV
+------
+- License: Apache 2
+- Website: https://opencv.org/
+- Copyright © OpenCV team
+
+Tesseract OCR
+-------------
+- License: Apache 2
+- Project: https://github.com/UB-Mannheim/tesseract/wiki
+- Based on original Tesseract by Google
+
+Qt Framework
+------------
+- License: LGPLv3 / Commercial
+- Website: https://www.qt.io/
+- Copyright © Qt Company
+
+pandas
+------
+- License: BSD
+- Website: https://pandas.pydata.org/
+- Copyright © 2008-2026 pandas development team
+
+NumPy
+-----
+- License: BSD
+- Website: https://numpy.org/
+- Copyright © 1995-2025 NumPy Developers
+
+---
+
+DISCLAIMER OF WARRANTIES
+========================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+---
+
+LIMITATION OF LIABILITY
+=======================
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL BITTA ANAS BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+OR FOR LOSS OF PROFITS, REVENUE, DATA, OR DATA USE, INCURRED BY YOU OR ANY
+THIRD PARTY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+---
+
+MODIFICATIONS & DERIVATIVE WORKS
+=================================
+
+You are free to modify this software. However:
+
+1. Modifications must be clearly marked as such
+2. Modified versions must not be misrepresented as the original software
+3. The modified software must retain all copyright notices and disclaimers
+4. Derivative works must include a notice describing the modifications
+
+Example:
+"This is a modified version of AI Speed Limit Detection with Python Qt Dashboard
+by BITTA Anas. Modifications: [describe changes here]"
+
+---
+
+COMMERCIAL USE
+==============
+
+Commercial use of this software is permitted under the MIT License terms.
+However, commercial use of YOLOv8 may require a separate commercial license
+from Ultralytics. Visit https://www.ultralytics.com/ for licensing information.
+
+---
+
+TRADEMARK NOTICE
+================
+
+All product names, logos, brands, and trademarks mentioned in this software
+are the property of their respective owners. Their mention does not constitute
+endorsement or recommendation.
+
+---
+
+GOVERNING LAW
+=============
+
+This Copyright Notice and the LICENSE file shall be governed by and construed
+in accordance with the laws applicable in France, without regard to its
+conflict of law principles.
+
+---
+
+CONTACT & LICENSING INQUIRIES
+=============================
+
+For licensing questions, copyright inquiries, or commercial licensing options,
+please contact:
+
+Email: anas.bitta@usmba.ac.ma
+LinkedIn: https://www.linkedin.com/in/bitta-anas/
+GitHub: https://github.com/BITTA-Anas
+Institution: USMBA (Université Sidi Mohamed Ben Abdellah)
+
+---
+
+DOCUMENT INFORMATION
+====================
+
+Document Version: 1.0
+Last Updated: February 2026
+Effective Date: February 16, 2026
+
+For the most up-to-date information, please visit the project repository:
+https://github.com/BITTA-Anas/AI-Speed-Limit-Detection-with-Python-Qt-Dashboard

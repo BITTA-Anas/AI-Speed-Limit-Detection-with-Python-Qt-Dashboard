@@ -1,0 +1,113 @@
+# Build Files
+build/
+dist/
+*.egg-info/
+*.egg
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Python
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.egg-info/
+dist/
+
+# Qt Generated Files
+moc_*.cpp
+moc_*.h
+ui_*.h
+*.qrc_*
+qrc_*.cpp
+*.moc
+*.o
+
+# Test Results
+test-results/
+coverage/
+.pytest_cache/
+
+# Log Files
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*~
+.~*
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Data & Models (Optional - uncomment if needed)
+# *.pt
+# *.pth
+# *.pkl
+# data/
+# datasets/
+
+# User Config
+local_config.py
+.env
+.env.local
+config.local.json
+
+# Output Files
+vitesse_limite.json.bak
+speed_limit_data.txt.bak
+
+# Node (if using npm packages)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Compiled C++
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+
+# Qt Specific
+*.qmltypes
+.qml.bak
+*.qmlc

@@ -1,0 +1,101 @@
+# Authors & Contributors
+
+## Project Creator
+
+**BITTA Anas**
+- GitHub: [@BITTA-Anas](https://github.com/BITTA-Anas)
+- LinkedIn: [BITTA Anas](https://www.linkedin.com/in/bitta-anas/)
+- Role: Project Founder, Lead Developer, Maintainer
+
+---
+
+## Acknowledgments
+
+### Open Source Projects
+
+This project stands on the shoulders of giants. We acknowledge and thank the developers of:
+
+- **YOLOv8** by [Ultralytics](https://www.ultralytics.com/)
+  - Advanced real-time object detection
+  - https://github.com/ultralytics/ultralytics
+
+- **Tesseract OCR** by [Google](https://github.com/google/tesseract)
+  - Optical character recognition
+  - Maintained by [UB-Mannheim](https://github.com/UB-Mannheim)
+
+- **OpenCV** by the OpenCV Team
+  - Computer vision library
+  - https://opencv.org/
+
+- **Qt Framework** by [Qt Company](https://www.qt.io/)
+  - Cross-platform GUI development
+  - https://github.com/qt/qt5
+
+- **PyTorch** by [Meta AI](https://pytorch.org/)
+  - Deep learning framework
+  - https://github.com/pytorch/pytorch
+
+- **Pandas** by the Pandas Development Team
+  - Data analysis library
+  - https://pandas.pydata.org/
+
+- **NumPy** by the NumPy Developers
+  - Numerical computing
+  - https://numpy.org/
+
+### Contributors
+
+We welcome contributions from the community! If you've contributed to this project,
+please add your name and details below.
+
+Contributors (in chronological order):
+- (To be updated with community contributions)
+
+### Supporters
+
+Special thanks to everyone who has supported this project through:
+- Bug reports and feature requests
+- Code reviews and suggestions
+- Testing and feedback
+- Documentation improvements
+
+---
+
+## How to Contribute
+
+We welcome contributions of all kinds! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+To add yourself as a contributor:
+1. Make your contribution
+2. Submit a Pull Request
+3. Your name will be added to this file
+
+---
+
+## Citation
+
+If you use this software in academic or professional work, please cite:
+
+```bibtex
+@software{ai_speed_limit_detection_2026,
+  title = {AI Speed Limit Detection with Python Qt Dashboard},
+  author = {BITTA, Anas},
+  year = {2026},
+  url = {https://github.com/BITTA-Anas/AI-Speed-Limit-Detection-with-Python-Qt-Dashboard}
+}
+```
+
+---
+
+## Contact
+
+- **Email**: anas.bitta@usmba.ac.ma
+- **LinkedIn**: [BITTA Anas](https://www.linkedin.com/in/bitta-anas/)
+- **GitHub**: [@BITTA-Anas](https://github.com/BITTA-Anas)
+- **Institution**: USMBA (Université Sidi Mohamed Ben Abdellah)
+
+---
+
+**Last Updated**: February 16, 2026
+
+Thank you for using and supporting this project! 🙏

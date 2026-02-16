@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  ".rcc/qmlcache/JaugeDynamique_qml/Gauge_qml.cpp"
-  ".rcc/qmlcache/JaugeDynamique_qml/Gauge_qml.cpp.aotstats"
   ".rcc/qmlcache/JaugeDynamique_qml/Main_qml.cpp"
   ".rcc/qmlcache/JaugeDynamique_qml/Main_qml.cpp.aotstats"
   ".rcc/qmlcache/module_JaugeDynamique.aotstats"

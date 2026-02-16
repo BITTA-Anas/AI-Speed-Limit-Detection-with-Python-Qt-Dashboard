@@ -1,7 +1,6 @@
 <RCC>
   <qresource prefix="/">
     <file alias="qml/Main.qml">C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/Main.qml</file>
-    <file alias="qml/Gauge.qml">C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/Gauge.qml</file>
     <file alias="assets/signs/20.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/20.svg</file>
     <file alias="assets/signs/30.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/30.svg</file>
     <file alias="assets/signs/40.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/40.svg</file>

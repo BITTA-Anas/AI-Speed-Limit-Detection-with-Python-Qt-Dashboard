@@ -69,7 +69,6 @@ CMakeFiles/JaugeDynamique_copy_qml: .qt/JaugeDynamique_qml.txt
 
 .qt/JaugeDynamique_qml.txt: C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 .qt/JaugeDynamique_qml.txt: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/qml/Main.qml
-.qt/JaugeDynamique_qml.txt: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/qml/Gauge.qml
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Copying JaugeDynamique qml sources into build dir"
 	"C:\Program Files\CMake\bin\cmake.exe" "-DFILES_INFO_PATH=C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/JaugeDynamique_qml.cmake" -P C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 
