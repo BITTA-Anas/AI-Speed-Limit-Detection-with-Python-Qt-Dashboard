@@ -1,0 +1,77 @@
+# AI Speed Limit Detection with Python Qt Dashboard
+# Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+# ================
+
+# Computer Vision & Image Processing
+opencv-python==4.8.1.78          # Image processing and video capture
+numpy==1.24.3                    # Numerical computing
+
+# Deep Learning & Detection
+torch==2.0.1                     # PyTorch deep learning framework
+torchvision==0.15.2              # PyTorch computer vision utilities
+ultralytics==8.0.200             # YOLOv8 object detection
+
+# Optical Character Recognition
+pytesseract==0.3.10              # Tesseract OCR wrapper
+
+# Data Processing
+pandas==2.0.3                    # Data analysis and manipulation
+
+# Optional Dependencies
+# ====================
+
+# GPU Support (if using CUDA)
+# Uncomment if you have an NVIDIA GPU
+# torch-cuda==11.8               # CUDA support (install separately)
+# torch-nccl==2.18.1             # NCCL backend for distributed training
+
+# Development Dependencies
+# ========================
+
+# Testing & Code Quality (optional)
+# pytest==7.4.0                  # Unit testing framework
+# pytest-cov==4.1.0              # Coverage reporting
+# pylint==2.17.5                 # Code analysis
+# flake8==6.0.0                  # Style guide enforcement
+# black==23.7.0                  # Code formatter
+# isort==5.12.0                  # Import sorting
+# mypy==1.4.1                    # Static type checker
+
+# Documentation (optional)
+# sphinx==7.1.1                  # Documentation generator
+# sphinx-rtd-theme==1.3.0        # ReadTheDocs theme
+
+# Version Information
+# ===================
+
+# Python Version: 3.8+
+# Last Updated: February 2026
+# Maintainer: BITTA Anas
+# Repository: https://github.com/BITTA-Anas/AI-Speed-Limit-Detection-with-Python-Qt-Dashboard
+
+# Installation Instructions
+# ==========================
+#
+# 1. Create virtual environment:
+#    python -m venv venv
+#
+# 2. Activate virtual environment:
+#    - Windows: venv\Scripts\activate
+#    - Linux/Mac: source venv/bin/activate
+#
+# 3. Upgrade pip (recommended):
+#    pip install --upgrade pip
+#
+# 4. Install dependencies:
+#    pip install -r requirements.txt
+#
+# 5. Install Tesseract OCR:
+#    - Download: https://sourceforge.net/projects/tesseract-ocr.mirror/
+#    - Configure path in Main.py
+#
+# 6. Install Qt6 (if building C++ component):
+#    - Download from: https://www.qt.io/download
+#    - Or: sudo apt-get install qt6-base-dev qt6-qml-dev (Linux)
