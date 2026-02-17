@@ -9,7 +9,6 @@ Thank you for your interest in contributing to this project! Here are some guide
 - Python 3.8+
 - Qt6 development tools
 - Tesseract OCR
-- CUDA toolkit (optional, for GPU acceleration)
 - Git
 
 ### Fork & Clone
