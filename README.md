@@ -33,20 +33,20 @@ A real-time speed limit sign detection and visualization system using computer v
 ┌────────────────▼────────────────────────────────────────┐
 │  Python Processing Layer (Main.py / test.py)            │
 │  ├─ YOLOv8 Detection                                    │
-│  ├─ OpenCV Image Processing                            │
-│  ├─ Tesseract OCR                                      │
-│  └─ JSON Export                                        │
+│  ├─ OpenCV Image Processing                             │
+│  ├─ Tesseract OCR                                       │
+│  └─ JSON Export                                         │
 └────────────────┬────────────────────────────────────────┘
                  │
 ┌────────────────▼────────────────────────────────────────┐
-│  vitesse_limite.json                        │
+│  vitesse_limite.json                                    │
 └────────────────┬────────────────────────────────────────┘
                  │
 ┌────────────────▼────────────────────────────────────────┐
 │  C++ Qt Application Layer                               │
 │  ├─ SpeedLimitReader (Data Monitor)                     │
-│  ├─ Qt6/QML Engine                                     │
-│  └─ Dynamic Gauge Interface                            │
+│  ├─ Qt6/QML Engine                                      │
+│  └─ Dynamic Gauge Interface                             │
 └─────────────────────────────────────────────────────────┘
 ```
 
